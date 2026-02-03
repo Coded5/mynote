@@ -1,6 +1,7 @@
 ---
-id: AI_Note
-aliases: []
+id: HW4
+aliases:
+  - Homework4
 tags:
   - University
 ---
@@ -247,9 +248,9 @@ all_different([H|T]) :-
 
 |term A = term B | A matches B | A unifies B | Remarks |
 |------|----|-----|------|
-|a = b| no | no | |
-|1+1 = 2| no | no | |
-|X + Y = 2| no | yes | |
+|a = b| no | no ||
+|1+1 = 2| no | no ||
+|X + Y = 2| no | yes ||
 |f(a) = f(a,b)| no | no ||
 |f(X, Y) = f(Y, a) | no | yes | X = Y = a (unified)|
 |f(X, Y, Z) = f(Y, Z, X) | no | yes | X = Y = Z (unified)|

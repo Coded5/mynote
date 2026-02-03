@@ -7,4 +7,4 @@ tags:
 
 ## University
 
-- [Artificial Intelligence](Obsidian/AI/AI_Note.md)
+[AI_Note](AI.md)
