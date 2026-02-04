@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ":path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,11 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2177ea939510ea1b",
+  "active": "e83c9d577718829f",
   "lastOpenFiles": [
+    "AI/Lecture 5.md~",
+    "AI/Homework4.md",
+    "AI/Lecture 5.md",
+    "attachments/graph.png",
+    "attachments/tree_graph.png",
+    "Graph",
+    "attachments/8Puzzle.png",
+    "AI/4913",
     "AI/AI.md",
     "Atlas.md",
-    "AI/Lecture 5.md",
     "AI/AI_Note.md",
     "attachments/Pasted image 20260203154730.png"
   ]

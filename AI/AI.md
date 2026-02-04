@@ -10,6 +10,7 @@ tags:
 # Artificial Intelligence
 
 
+- [Lecture5](AI/Lecture%205.md)
 
 ## Homework
 
