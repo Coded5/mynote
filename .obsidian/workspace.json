@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Lecture 5.md",
+                "file": "Ubiquitous Computing/Wireless and Mobile networks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
+              "title": "Wireless and Mobile networks"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Lecture 5.md",
+                "file": "Ubiquitous Computing/Wireless and Mobile networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 5"
+              "title": "Outline of Wireless and Mobile networks"
             }
           }
         ]
@@ -97,13 +97,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8acecfe178d42232",
@@ -208,15 +206,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a16a063927ab47a1",
+  "active": "ae6da10560d1f077",
   "lastOpenFiles": [
+    "Ubiquitous Computing/Wireless and Mobile networks.md~",
+    "attachments/data_control_planes.png",
+    "AI/Lecture 5.md",
     "Ubiquitous Computing/1770220140-DRDJ.md",
     "Ubiquitous Computing/Intro to UbiComp.md~",
     "Ubiquitous Computing/Intro to UbiComp.md",
     "Ubiquitous Computing/1770220066-SPTC.md",
     "AI/Lecture 5.md~",
     "AI/Homework4.md",
-    "AI/Lecture 5.md",
     "Ubiquitous Computing/1770138894-QDSD.md",
     "Untitled.base",
     "2026-02-04.md",
