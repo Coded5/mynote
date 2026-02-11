@@ -11,6 +11,7 @@ tags:
 
 - [Lecture 1 (Review)](AI/Lecture%201%20%28Review%29.md)
 - [Lecture5](AI/Lecture%205.md)
+- [Lecture 6](AI/Lecture%206.md)
 
 ## Homework
 

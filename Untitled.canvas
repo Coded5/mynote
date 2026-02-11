@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5baedcbcb08ffb54","x":220,"y":-360,"width":250,"height":60,"type":"text","text":"Choose Emerging Tech"},
+		{"id":"70c4adeef31c3e75","x":540,"y":-360,"width":280,"height":60,"type":"text","text":"Prepare for presentation"},
+		{"id":"09cdac01e4aa0185","x":-80,"y":-360,"width":250,"height":60,"type":"text","text":"Start"},
+		{"id":"1bb9c9c6e26abb0e","x":880,"y":-360,"width":300,"height":60,"type":"text","text":"Deliver Presentation to investor"},
+		{"id":"7e9a4f49ccf3919c","x":880,"y":-240,"width":300,"height":60,"type":"text","text":"Meeting for job advert, job description and criteria"},
+		{"id":"a2d7a6d2d518f6d1","x":540,"y":-240,"width":280,"height":60,"type":"text","text":"Publish Advert"},
+		{"id":"49238fad69dfafad","x":220,"y":-240,"width":250,"height":60,"type":"text","text":"Interview candidate"},
+		{"id":"8f023541ebf1fe1b","x":-80,"y":-240,"width":250,"height":60,"type":"text","text":"Hiring meeting:\nDiscuss who to hire"},
+		{"id":"bd2f85b061195f85","x":-80,"y":-120,"width":250,"height":60,"type":"text","text":"Complete"}
+	],
+	"edges":[
+		{"id":"739b96f249a07272","fromNode":"09cdac01e4aa0185","fromSide":"right","toNode":"5baedcbcb08ffb54","toSide":"left"},
+		{"id":"f9142596b7b21919","fromNode":"5baedcbcb08ffb54","fromSide":"right","toNode":"70c4adeef31c3e75","toSide":"left"},
+		{"id":"6ee2e9dc82cf8bcf","fromNode":"70c4adeef31c3e75","fromSide":"right","toNode":"1bb9c9c6e26abb0e","toSide":"left"},
+		{"id":"5e2110a39485992f","fromNode":"1bb9c9c6e26abb0e","fromSide":"bottom","toNode":"7e9a4f49ccf3919c","toSide":"top"},
+		{"id":"711cec997bac9b84","fromNode":"7e9a4f49ccf3919c","fromSide":"left","toNode":"a2d7a6d2d518f6d1","toSide":"right"},
+		{"id":"b6a5d6e32a97e834","fromNode":"a2d7a6d2d518f6d1","fromSide":"left","toNode":"49238fad69dfafad","toSide":"right"},
+		{"id":"ccb60c30bd65e348","fromNode":"49238fad69dfafad","fromSide":"left","toNode":"8f023541ebf1fe1b","toSide":"right"},
+		{"id":"01d4f2681a13c3e3","fromNode":"8f023541ebf1fe1b","fromSide":"bottom","toNode":"bd2f85b061195f85","toSide":"top"}
+	]
+}
