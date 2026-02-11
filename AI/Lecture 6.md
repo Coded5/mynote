@@ -194,8 +194,30 @@ return
     - Planning domain definition language (PDDL)
 - Use means-end analysis
 
-## AI Architectures
+## AI Architectures (NOT IN EXAM :fireworks:)
 - Structured approaches to problem-solving, decision making and behavior modeling
 - Design the transition of the state / paradigm
 - AI paradigms: Symbolic reasoning, Reactive systems, learning-based models, distributed system.
+
+> *Midterm*
+> Uncertainty
+
+## EXAM
+
+- Symbolic vs Sub-symbolic
+- Fundamental Theory
+- Why planning and searching relate so closely?
+- Turing test (Measure of intelligence?) -> Why its not that good
+- Prolog Basic (MUST)
+    - Unification vs Pattern-Matching
+    - Question plz :sob:
+    - LAB LAB LAB
+    - Reasoning capabilities
+    - Write a prolog predicate that does this or that. (SHOULD BE BRIEF) (MIGHT USE RECURSION)
+    -Creative Question story: read (my natural enemy :skull:)
+- Kind of reasoning
+- Basic Searching algorithm like DFS, BFS, A*, Dijkstrak
+- Uncertainty
+    - Bayesian formula
+- Exercise in textbook 
 
