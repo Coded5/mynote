@@ -9,7 +9,8 @@ tags:
 
 # Intro to Ubiquitous Computing
 
-## Evolution of Computing
+## Evolution Of Computing
+
 1. Single User Systems
 2. Batch Processing
 3. Time-Sharing

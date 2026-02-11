@@ -11,7 +11,7 @@ tags:
 
 ## Elements of Wireless Network
 - Host (Computer, Mobile)
-- Base Station (Have wired connection to wired network)
+- Base Station (Have wired connection to wired network): Relay data to wire network infrastructure.
 - Infrastructure Mode (Handoff between area)
 - [~] *Wireless Link*
 
@@ -103,7 +103,7 @@ Frame control
 ![mobile_subnet.png](mobile_subnet.png)
 
 ### Advance capability: Rate adaptation
-- Adapt transmission rate of mobile
+- Adapt transmission rate of mobile based on SNR and BER.
 
 ### Advance capability: Power management
 - Node can sleep util next beacon frame and letting it know
