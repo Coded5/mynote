@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Lecture 6.md",
+                "file": "Ubiquitous Computing/1770346292-JJMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6"
+              "title": "1770346292-JJMB"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8acecfe178d42232",
@@ -185,6 +186,9 @@
   },
   "active": "a16a063927ab47a1",
   "lastOpenFiles": [
+    "Atlas.md~",
+    "Ubiquitous Computing/1770435019-OXKS.md~",
+    "AI/Lecture 6.md",
     "AI/Lecture 6.md~",
     "attachments/DFS.png",
     "AI/1770794787-MUUB.md",
@@ -197,7 +201,6 @@
     "AI/Lecture 1 (Review).md",
     "AI/1770544116-ONPS.md",
     "Ubiquitous Computing/1770435019-OXKS.md",
-    "Ubiquitous Computing/1770435019-OXKS.md~",
     "attachments/Congestion II.png",
     "attachments/Congestion I.png",
     "Ubiquitous Computing/Wireless and Mobile networks.md",
